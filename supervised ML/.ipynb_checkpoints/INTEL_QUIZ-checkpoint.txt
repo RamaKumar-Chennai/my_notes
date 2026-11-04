@@ -1,0 +1,45 @@
+Question 18 / 18
+Which of the following is true about the fit() function in the context of machine learning?
+
+It optimizes model parameters based on the provided data
+
+
+
+Question 17 / 18
+What is the primary purpose of SGDRegressor in sklearn?
+To perform regression tasks using stochastic gradient descent
+
+
+What does setting random_state in train_test_split() ensure?
+The split is reproducible each time the code is run
+
+
+What is the purpose of the fit() function in sklearn?
+To train the model on the provided dataset
+
+What can happen if the learning rate in gradient descent is set too high?
+
+The gradient descent may fail to converge and oscillate around the minimum
+
+
+Which of the following is a common cost function used in linear regression with gradient descent?
+Mean Squared Error (MSE)
+
+n gradient descent, what does the gradient represent?
+The direction and rate of the steepest ascent
+
+
+Which parameter in LinearRegression allows you to fit the model with or without an intercept?
+fit_intercept
+
+Which statement is true for sklearn.linear_model.LinearRegression?
+It minimizes the mean squared error using the closed-form solution
+
+
+What can happen if the learning rate is set too high in gradient descent?
+The gradient descent may diverge or oscillate
+
+
+Question 1 / 18
+In gradient descent, what does the learning rate control?
+The magnitude of the steps taken towards the minimum
